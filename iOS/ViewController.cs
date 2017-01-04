@@ -8,6 +8,7 @@ namespace GitCommitDemo.iOS
 	{
 		int count = 1;
 		// pushed on git
+		// local branch commited
 
 		public ViewController (IntPtr handle) : base (handle)
 		{
