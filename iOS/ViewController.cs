@@ -8,7 +8,11 @@ namespace GitCommitDemo.iOS
 	{
 		int count = 1;
 		// pushed on git
-		// local branch commited
+		// local branch commited.....
+		/// <summary>
+		///
+		/// </summary>
+		/// <param name="handle">Handle.</param>
 
 		public ViewController (IntPtr handle) : base (handle)
 		{
