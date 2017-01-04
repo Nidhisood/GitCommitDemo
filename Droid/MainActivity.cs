@@ -10,6 +10,7 @@ namespace GitCommitDemo.Droid
 		int count = 1;
 
 		// pushed to git
+		// commited 
 
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
