@@ -24,6 +24,10 @@ namespace GitCommitDemo.iOS
 		{
 
 		}
+		public void test1 ()
+		{
+
+		}
 		public override void DidReceiveMemoryWarning ()
 		{
 			base.DidReceiveMemoryWarning ();
