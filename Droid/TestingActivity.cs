@@ -21,6 +21,10 @@ namespace GitCommitDemo.Droid
 			base.OnCreate (savedInstanceState);
 
 			// Create your application here
+
+			/// <summary>
+			/// /// testing
+			/// </summary>
 		}
 	}
 }
