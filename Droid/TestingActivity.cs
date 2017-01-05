@@ -21,6 +21,11 @@ namespace GitCommitDemo.Droid
 			base.OnCreate (savedInstanceState);
 
 			// Create your application here
+
+			var button = new Button (this) {
+				Text = "hello android"
+			};
+
 		}
 	}
 }
