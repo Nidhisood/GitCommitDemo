@@ -16,9 +16,14 @@ namespace GitCommitDemo.iOS
 			// Perform any additional setup after loading the view, typically from a nib.
 
 
-			// test branch
+
+			// test branch....
 		}
 
+		public void test ()
+		{
+
+		}
 		public override void DidReceiveMemoryWarning ()
 		{
 			base.DidReceiveMemoryWarning ();
