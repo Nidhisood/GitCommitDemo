@@ -22,9 +22,10 @@ namespace GitCommitDemo.Droid
 
 			// Create your application here
 
-			/// <summary>
-			/// /// testing
-			/// </summary>
+			var button = new Button (this) {
+				Text = "hello"
+			};
+
 		}
 	}
 }
