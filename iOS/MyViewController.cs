@@ -14,8 +14,20 @@ namespace GitCommitDemo.iOS
 		{
 			base.ViewDidLoad ();
 			// Perform any additional setup after loading the view, typically from a nib.
+
+
+
+			// test branch....
 		}
 
+		public void test ()
+		{
+
+		}
+		public void test1 ()
+		{
+
+		}
 		public override void DidReceiveMemoryWarning ()
 		{
 			base.DidReceiveMemoryWarning ();
