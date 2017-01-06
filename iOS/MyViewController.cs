@@ -22,8 +22,9 @@ namespace GitCommitDemo.iOS
 
 		public void test ()
 		{
-
+			// edited by master branch
 		}
+
 		public void test1 ()
 		{
 
